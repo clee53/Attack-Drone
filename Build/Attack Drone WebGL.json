@@ -1,0 +1,13 @@
+{
+"companyName": "Crazy Carl's Games",
+"productName": "ATTACK DRONE",
+"dataUrl": "Attack Drone WebGL.data.unityweb",
+"asmCodeUrl": "Attack Drone WebGL.asm.code.unityweb",
+"asmMemoryUrl": "Attack Drone WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Attack Drone WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
